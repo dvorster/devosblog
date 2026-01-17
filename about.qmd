@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Devon Vorster"
 image: profile.jpg
 about:
   template: jolla
@@ -16,4 +16,4 @@ about:
 
 ---
 
-About this blog - this is Devos Blog. A place for Devo to blog about stuff. :)
+Hi and welcome to my blog! My name is Devon Vorster, I am currently a Master's of Data Science Student at the University of British Columbia. This is a space where I post my projects. Enjoy, and feel free to leave a comment or to say hello!!

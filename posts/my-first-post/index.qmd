@@ -1,15 +1,15 @@
 ---
-title: "How AI Generates Images: A Simple Explanation"
+title: "How do image generating AI model work?"
 author: "Devon Vorster"
 date: "2026-01-15"
 date-modified: "2026-01-15"
-categories: [news, code, analysis]
+categories: [Topic Review]
 image: "image.jpg"
 ---
 
 
 
-# A simple explanation of image-generating AI models: Diffusion Models and the Game of Telephone
+# A Simple Explanation of Image-Generating Diffusion Moels Using the Game of Telephone
 
 With the popularity and advancement of AI rapidly accelerating, artificial intelligence has become a part of daily life for many people. In particular, advances in image-generating AI models have been an especially exciting area. Diffusion models, named after the physical process they are inspired by, are currently the most widely used and successful tools for generating images with AI.
 Diffusion models are complex, but in this post I will attempt to break them down in a more manageable way to help explain how they work. At a high level, diffusion models can be divided into two stages: a forward stage and a backward stage. Surprisingly, these processes can be explained quite simply by likening them to a game of telephone.
